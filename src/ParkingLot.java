@@ -18,11 +18,11 @@ public class ParkingLot {
 
     }
 
-    public  void addCar() {
+    public  void addVehicle() {
         capacity--;
     }
 
-    public void removeCar()
+    public void removeVehicle()
     {capacity++;
     }
 
